@@ -18,7 +18,7 @@ MySQL database setup
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/social-media-backend.git
+git clone https://github.com/ALGO-MANISH/assignment1
 cd social-media-backend
 
 Install dependencies:
